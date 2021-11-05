@@ -22,7 +22,7 @@ Here are some ideas to get you started:
   
   ___
   
-- :school: __MSc in Building Technology and Science at [Tianjin University](http://www.tju.edu.cn/)__ 
+- :school: __MSc in Building Technology & Science at [Tianjin University](http://www.tju.edu.cn/)__ 
 - :bank: __Research on Intelligent Building__
 - :sparkles: __Keywords: Crowd Counting; Interpretability Analysis; Built Environment__
 - :book: __Current Research Content__
