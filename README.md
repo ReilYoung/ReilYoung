@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+-  <img align="right" alt="GIF" src="https://github.com/ReilYoung/GIF/blob/main/img.gif?raw=true" width="500" height="320" />
 - :school: __MSc in Building Technology and Science at [Tianjin University](http://www.tju.edu.cn/)__ 
 - :bank: __Research on Intelligent Building__
 - :sparkles: __Keywords: Crowd Counting; Interpretability Analysis; Built Environment__
