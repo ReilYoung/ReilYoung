@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 
    __1. Acquisition and Prediction of Occupancy Information Based on Image Recognition Algorithm - An Example of Educational Buildings__ 
    
-     Completion Level     ███████████████████░  95%
+     Completion Level     ████████████████████  100%
 
    __2. Interpretability Analysis of Thermal Sensation Machine Learning Models Based on Cooperative Game Theory__
    
