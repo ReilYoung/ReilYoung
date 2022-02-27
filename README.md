@@ -35,6 +35,6 @@ Here are some ideas to get you started:
 
    __2. Interpretability Analysis of Thermal Sensation Machine Learning Models Based on Cooperative Game Theory__
    
-     Completion Level     ████████████████░░░░  80%
+     Completion Level     ████████████████████  100%
 
 ___
